@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!-- Created by Biatov Anton https://www.facebook.com/biatovanton -->
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="50.046610519067876" minlon="35.286612997831568" maxlat="50.075871130354834" maxlon="35.291888952941797"/></metadata>                  
+<rte>
+  <name>Мурафа (Цукрозавод) - Володимирівське відділення (Наталіївка)</name>
+  <extensions>
+    <ogr:typ>1</ogr:typ>
+    <ogr:download>download/cukrozavod-natalevka.gpx</ogr:download>
+    <ogr:length>3.9 км</ogr:length>
+  </extensions>
+  <rtept lat="50.046610519067876" lon="35.287438025054534">
+  </rtept>
+  <rtept lat="50.046610519067876" lon="35.287438025054534">
+  </rtept>
+  <rtept lat="50.047374356536807" lon="35.287362506774791">
+  </rtept>
+  <rtept lat="50.047959462971427" lon="35.287891571911203">
+  </rtept>
+  <rtept lat="50.048771050410444" lon="35.288156104479398">
+  </rtept>
+  <rtept lat="50.050073336458269" lon="35.289802084903769">
+  </rtept>
+  <rtept lat="50.050507423954748" lon="35.29074264514626">
+  </rtept>
+  <rtept lat="50.051337841268484" lon="35.291183532759931">
+  </rtept>
+  <rtept lat="50.0514888246908" lon="35.291712597896328">
+  </rtept>
+  <rtept lat="50.051715298933594" lon="35.291888952941797">
+  </rtept>
+  <rtept lat="50.053979982577914" lon="35.291007177714462">
+  </rtept>
+  <rtept lat="50.059414787263727" lon="35.288538207077913">
+  </rtept>
+  <rtept lat="50.061065864675946" lon="35.287847483149832">
+  </rtept>
+  <rtept lat="50.061197948414161" lon="35.288420637047608">
+  </rtept>
+  <rtept lat="50.061263990146905" lon="35.288743954630966">
+  </rtept>
+  <rtept lat="50.062113090040206" lon="35.288993790945376">
+  </rtept>
+  <rtept lat="50.062245170895075" lon="35.289170145990852">
+  </rtept>
+  <rtept lat="50.062509331513823" lon="35.289111360975689">
+  </rtept>
+  <rtept lat="50.063396145809165" lon="35.288596992093076">
+  </rtept>
+  <rtept lat="50.06433011335195" lon="35.28828837076351">
+  </rtept>
+  <rtept lat="50.064499923678703" lon="35.287906268164988">
+  </rtept>
+  <rtept lat="50.06456596086565" lon="35.287715216865735">
+  </rtept>
+  <rtept lat="50.064688601114504" lon="35.287729913119527">
+  </rtept>
+  <rtept lat="50.064792373387832" lon="35.287818090642254">
+  </rtept>
+  <rtept lat="50.064839542528766" lon="35.288273674509718">
+  </rtept>
+  <rtept lat="50.065028218628669" lon="35.288317763271081">
+  </rtept>
+  <rtept lat="50.067141340243438" lon="35.291433369074348">
+  </rtept>
+  <rtept lat="50.068037502100367" lon="35.290698556384896">
+  </rtept>
+  <rtept lat="50.069848641260748" lon="35.289934351187874">
+  </rtept>
+  <rtept lat="50.070490069978796" lon="35.289802084903776">
+  </rtept>
+  <rtept lat="50.070867376981873" lon="35.289478767320411">
+  </rtept>
+  <rtept lat="50.071320141467119" lon="35.288832132153701">
+  </rtept>
+  <rtept lat="50.071725739355209" lon="35.288053230702879">
+  </rtept>
+  <rtept lat="50.071725739355209" lon="35.287582950581637">
+  </rtept>
+  <rtept lat="50.0719804153456" lon="35.286980404176283">
+  </rtept>
+  <rtept lat="50.072291684163787" lon="35.286612997831568">
+  </rtept>
+  <rtept lat="50.072367142966947" lon="35.287024492937654">
+  </rtept>
+  <rtept lat="50.072357710623038" lon="35.287200847983115">
+  </rtept>
+  <rtept lat="50.072706706111788" lon="35.287421291789954">
+  </rtept>
+  <rtept lat="50.072933080205836" lon="35.287715216865735">
+  </rtept>
+  <rtept lat="50.073168885417445" lon="35.287494773058896">
+  </rtept>
+  <rtept lat="50.073612196076105" lon="35.287685824358157">
+  </rtept>
+  <rtept lat="50.073847997948164" lon="35.287920964418781">
+  </rtept>
+  <rtept lat="50.074130958664028" lon="35.28839124454003">
+  </rtept>
+  <rtept lat="50.074225278531593" lon="35.288479422062764">
+  </rtept>
+  <rtept lat="50.074395053825668" lon="35.28839124454003">
+  </rtept>
+  <rtept lat="50.075424303677018" lon="35.288385733444869">
+  </rtept>
+  <rtept lat="50.0757493603965" lon="35.289146781291713">
+  </rtept>
+  <rtept lat="50.075871130354834" lon="35.289522856081781">
+  </rtept>
+  <rtept lat="50.075774278115091" lon="35.28962003285703">
+  </rtept>
+</rte>
+</gpx>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!-- Created by Biatov Anton https://www.facebook.com/biatovanton -->
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="50.054430901233886" minlon="35.161777557443003" maxlat="50.063397255223919" maxlon="35.183978057668931"/></metadata>                  
+<rte>
+  <name>Краснокутськ - Адміністрація парку</name>
+  <extensions>
+    <ogr:typ>1</ogr:typ>
+    <ogr:download>download/krasnokutsk-administracia.gpx</ogr:download>
+    <ogr:length>2.3 км</ogr:length>
+  </extensions>
+  <rtept lat="50.059629914174486" lon="35.161779648164739">
+  </rtept>
+  <rtept lat="50.059720330581868" lon="35.161777557443003">
+  </rtept>
+  <rtept lat="50.0599678022921" lon="35.162232130170231">
+  </rtept>
+  <rtept lat="50.06053744930216" lon="35.16298490260651">
+  </rtept>
+  <rtept lat="50.061405914513443" lon="35.164194066060908">
+  </rtept>
+  <rtept lat="50.062173979515983" lon="35.165245038206244">
+  </rtept>
+  <rtept lat="50.063362238223235" lon="35.16674876478789">
+  </rtept>
+  <rtept lat="50.063397255223919" lon="35.166908774387871">
+  </rtept>
+  <rtept lat="50.063061090962158" lon="35.167632454169606">
+  </rtept>
+  <rtept lat="50.062120285401924" lon="35.169565297405754">
+  </rtept>
+  <rtept lat="50.062005893393298" lon="35.169823494714812">
+  </rtept>
+  <rtept lat="50.061973209912168" lon="35.170041689623872">
+  </rtept>
+  <rtept lat="50.061597348278596" lon="35.171030839878306">
+  </rtept>
+  <rtept lat="50.061588010063872" lon="35.171059932532856">
+  </rtept>
+  <rtept lat="50.061347550408698" lon="35.171801795223672">
+  </rtept>
+  <rtept lat="50.061284517095821" lon="35.171939985332749">
+  </rtept>
+  <rtept lat="50.06112343158663" lon="35.172190909478175">
+  </rtept>
+  <rtept lat="50.060282976678657" lon="35.173347342496221">
+  </rtept>
+  <rtept lat="50.059781031308205" lon="35.174038293041598">
+  </rtept>
+  <rtept lat="50.058870512349088" lon="35.175358372241448">
+  </rtept>
+  <rtept lat="50.058538985770049" lon="35.175791125477758">
+  </rtept>
+  <rtept lat="50.05831251911389" lon="35.176183876314077">
+  </rtept>
+  <rtept lat="50.058167766670572" lon="35.176682088023114">
+  </rtept>
+  <rtept lat="50.057413646071041" lon="35.177787608895713">
+  </rtept>
+  <rtept lat="50.056587134957624" lon="35.179016773550117">
+  </rtept>
+  <rtept lat="50.056285945164944" lon="35.179520440131881">
+  </rtept>
+  <rtept lat="50.055452410068561" lon="35.180713238968103">
+  </rtept>
+  <rtept lat="50.054551148545983" lon="35.182020590131586">
+  </rtept>
+  <rtept lat="50.054430901233886" lon="35.18217696314975">
+  </rtept>
+  <rtept lat="50.054458920051971" lon="35.182384248313362">
+  </rtept>
+  <rtept lat="50.054465329647037" lon="35.182527931952919">
+  </rtept>
+  <rtept lat="50.055296775752929" lon="35.183839838544571">
+  </rtept>
+  <rtept lat="50.055376930934941" lon="35.183978057668931">
+  </rtept>
+  <rtept lat="50.055497163456863" lon="35.18394684689892">
+  </rtept>
+  <rtept lat="50.055794880786024" lon="35.18356785897732">
+  </rtept>
+  <rtept lat="50.055694687660292" lon="35.183385053038641">
+  </rtept>
+</rte>
+</gpx>

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Козіївка" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.213116944218953, 50.151359029323181 ] ] } },
+{ "type": "Feature", "properties": { "name": "Маслозавод" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.182499138477212, 50.054279502154216 ] ] } },
+{ "type": "Feature", "properties": { "name": "Краснокутьска автостанція" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.161779648164739, 50.059629914174486 ] ] } },
+{ "type": "Feature", "properties": { "name": "Глобовка" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.23141467592324, 50.119623426029428 ] ] } },
+{ "type": "Feature", "properties": { "name": "Кочалівка" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.216894090361016, 50.025849995253573 ] ] } },
+{ "type": "Feature", "properties": { "name": "Мурафа (центр)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.324049434199274, 50.048484362381487 ] ] } },
+{ "type": "Feature", "properties": { "name": "Цукрозавод" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.287438025054534, 50.046610519067897 ] ] } },
+{ "type": "Feature", "properties": { "name": "Чернещина" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.193129024365646, 50.080594767534059 ] ] } }
+]
+}

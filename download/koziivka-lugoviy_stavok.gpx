@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!-- Created by Biatov Anton https://www.facebook.com/biatovanton -->
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="50.134984745920576" minlon="35.180161458125085" maxlat="50.156747072939979" maxlon="35.213116944218953"/></metadata>                  
+<rte>
+  <name>Козіївка-Луговий ставок</name>
+  <extensions>
+    <ogr:typ>2</ogr:typ>
+    <ogr:length>5.5 km</ogr:length>
+  </extensions>
+  <rtept lat="50.151359029323167" lon="35.213116944218953">
+  </rtept>
+  <rtept lat="50.152044454134519" lon="35.211649729808833">
+  </rtept>
+  <rtept lat="50.156534859867911" lon="35.203033439930252">
+  </rtept>
+  <rtept lat="50.156747072939979" lon="35.202144361369228">
+  </rtept>
+  <rtept lat="50.156713565675432" lon="35.200732295419364">
+  </rtept>
+  <rtept lat="50.156534859867911" lon="35.198387568626075">
+  </rtept>
+  <rtept lat="50.149341396591439" lon="35.180161458125085">
+  </rtept>
+  <rtept lat="50.145029267904313" lon="35.187744775263226">
+  </rtept>
+  <rtept lat="50.144481845520282" lon="35.189139408300129">
+  </rtept>
+  <rtept lat="50.144057309562122" lon="35.191283656594358">
+  </rtept>
+  <rtept lat="50.14376683541969" lon="35.192020197166968">
+  </rtept>
+  <rtept lat="50.143157951204664" lon="35.192856976989113">
+  </rtept>
+  <rtept lat="50.142303265790815" lon="35.194347491047303">
+  </rtept>
+  <rtept lat="50.142236230994868" lon="35.194652567024121">
+  </rtept>
+  <rtept lat="50.142068643593987" lon="35.195018658196311">
+  </rtept>
+  <rtept lat="50.140107827382678" lon="35.198548823070958">
+  </rtept>
+  <rtept lat="50.140001684041096" lon="35.198697002831132">
+  </rtept>
+  <rtept lat="50.139370405617882" lon="35.197773058444184">
+  </rtept>
+  <rtept lat="50.139225154536348" lon="35.197764341987707">
+  </rtept>
+  <rtept lat="50.13880615856101" lon="35.198261180007101">
+  </rtept>
+  <rtept lat="50.138700012331348" lon="35.198252463550617">
+  </rtept>
+  <rtept lat="50.137772619465366" lon="35.196796815318358">
+  </rtept>
+  <rtept lat="50.137582669310852" lon="35.196753233035949">
+  </rtept>
+  <rtept lat="50.137253048135257" lon="35.197424400184957">
+  </rtept>
+  <rtept lat="50.13671112363938" lon="35.198252463550617">
+  </rtept>
+  <rtept lat="50.135744583270942" lon="35.198906197786663">
+  </rtept>
+  <rtept lat="50.135532276990745" lon="35.198880048417216">
+  </rtept>
+  <rtept lat="50.135359079064429" lon="35.197886372378434">
+  </rtept>
+  <rtept lat="50.135331143856313" lon="35.197677177422896">
+  </rtept>
+  <rtept lat="50.135420536464885" lon="35.196544038080418">
+  </rtept>
+  <rtept lat="50.13538142721918" lon="35.196308693755434">
+  </rtept>
+  <rtept lat="50.13521940286072" lon="35.196116931712865">
+  </rtept>
+  <rtept lat="50.135107661604181" lon="35.195907736757327">
+  </rtept>
+  <rtept lat="50.135018268411052" lon="35.195628810149948">
+  </rtept>
+  <rtept lat="50.134984745920576" lon="35.195332450629607">
+  </rtept>
+  <rtept lat="50.135085313321554" lon="35.194748448045409">
+  </rtept>
+  <rtept lat="50.135146771073657" lon="35.194338774590818">
+  </rtept>
+</rte>
+</gpx>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!-- Created by Biatov Anton https://www.facebook.com/biatovanton -->
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="50.048484362381487" minlon="35.289146781291691" maxlat="50.075871130354813" maxlon="35.324049434199267"/></metadata>                  
+<rte>
+  <name>Мурафа - Володимирівське відділення (Наталіївка)</name>
+  <extensions>
+    <ogr:typ>1</ogr:typ>
+    <ogr:download>download/murafa-natalevka.gpx</ogr:download>
+    <ogr:length>4.1 км</ogr:length>
+  </extensions>
+  <rtept lat="50.048484362381487" lon="35.324049434199267">
+  </rtept>
+  <rtept lat="50.049528758001294" lon="35.322731734309727">
+  </rtept>
+  <rtept lat="50.050921403552088" lon="35.320636833536703">
+  </rtept>
+  <rtept lat="50.052393132768955" lon="35.3179750772604">
+  </rtept>
+  <rtept lat="50.053595802701665" lon="35.316249864859095">
+  </rtept>
+  <rtept lat="50.054212950569941" lon="35.315140799743965">
+  </rtept>
+  <rtept lat="50.055194041098495" lon="35.313070544862391">
+  </rtept>
+  <rtept lat="50.055700402555026" lon="35.311505530755497">
+  </rtept>
+  <rtept lat="50.056285876327848" lon="35.308055105952882">
+  </rtept>
+  <rtept lat="50.056681462670639" lon="35.306773519597627">
+  </rtept>
+  <rtept lat="50.059165670348698" lon="35.303865304406841">
+  </rtept>
+  <rtept lat="50.061159272645575" lon="35.30126516285916">
+  </rtept>
+  <rtept lat="50.062535759215251" lon="35.298923803171675">
+  </rtept>
+  <rtept lat="50.063121149578947" lon="35.298085842862463">
+  </rtept>
+  <rtept lat="50.065541741993819" lon="35.295571961934847">
+  </rtept>
+  <rtept lat="50.068658272595428" lon="35.292639100852618">
+  </rtept>
+  <rtept lat="50.072468356446869" lon="35.291210876987876">
+  </rtept>
+  <rtept lat="50.073317017360104" lon="35.290918178662039">
+  </rtept>
+  <rtept lat="50.073784170647748" lon="35.290325655588148">
+  </rtept>
+  <rtept lat="50.074311553698259" lon="35.289898709445758">
+  </rtept>
+  <rtept lat="50.074676647115005" lon="35.289703630231578">
+  </rtept>
+  <rtept lat="50.0757493603965" lon="35.289146781291691">
+  </rtept>
+  <rtept lat="50.075871130354813" lon="35.289522856081767">
+  </rtept>
+  <rtept lat="50.075774278115091" lon="35.28962003285703">
+  </rtept>
+</rte>
+</gpx>

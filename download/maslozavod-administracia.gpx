@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- Created by Biatov Anton https://www.facebook.com/biatovanton -->
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="50.054279502154195" minlon="35.182457647301035" maxlat="50.055794880786010" maxlon="35.183978057668938"/></metadata>                  
+<rte>
+  <name>Маслозавод-Адміністрація парка</name>
+  <extensions>
+    <ogr:typ>1</ogr:typ>
+    <ogr:download>download/maslozavod-administracia.gpx</ogr:download>
+    <ogr:length>0.2 км</ogr:length>
+  </extensions>
+  <rtept lat="50.054279502154195" lon="35.182499138477212">
+  </rtept>
+  <rtept lat="50.054349216846816" lon="35.182604783788257">
+  </rtept>
+  <rtept lat="50.054420785393305" lon="35.182457647301035">
+  </rtept>
+  <rtept lat="50.055296775752936" lon="35.183839838544586">
+  </rtept>
+  <rtept lat="50.055376930934948" lon="35.183978057668938">
+  </rtept>
+  <rtept lat="50.055497163456884" lon="35.183946846898927">
+  </rtept>
+  <rtept lat="50.05579488078601" lon="35.183567858977305">
+  </rtept>
+  <rtept lat="50.055694687660321" lon="35.183385053038641">
+  </rtept>
+</rte>
+</gpx>

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Губарівка", "course": "Харків-Люботин-Богодухів-Суми", "URL": "http:\/\/pz.gov.ua\/prrasp\/raspstan.php?line=92&nn=2" }, "geometry": { "type": "Point", "coordinates": [ 35.375016330142344, 50.177628733130867 ] } },
+{ "type": "Feature", "properties": { "name": "Водяна", "course": "Харків-Люботин-Огульці-Полтава", "URL": "http:\/\/pz.gov.ua\/prrasp\/raspstan.php?line=27&nn=12" }, "geometry": { "type": "Point", "coordinates": [ 35.365845033455457, 49.926203189611059 ] } }
+]
+}

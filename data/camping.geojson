@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Березовий гай", "urlimg": null }, "geometry": { "type": "Point", "coordinates": [ 35.186032635132996, 50.052915310456683 ] } },
+{ "type": "Feature", "properties": { "name": "Луговий ставок", "urlimg": null }, "geometry": { "type": "Point", "coordinates": [ 35.194170988489667, 50.135317914676072 ] } },
+{ "type": "Feature", "properties": { "name": "Холодний яр", "urlimg": null }, "geometry": { "type": "Point", "coordinates": [ 35.228506159866797, 50.09394222801501 ] } },
+{ "type": "Feature", "properties": { "name": "Вільшанка", "urlimg": null }, "geometry": { "type": "Point", "coordinates": [ 35.17999607048381, 50.095946691023187 ] } },
+{ "type": "Feature", "properties": { "name": "Козацький стан", "urlimg": null }, "geometry": { "type": "Point", "coordinates": [ 35.209434583420986, 50.077899078674214 ] } },
+{ "type": "Feature", "properties": { "name": "Лісове озеро", "urlimg": null }, "geometry": { "type": "Point", "coordinates": [ 35.201705072002412, 50.051141042542888 ] } },
+{ "type": "Feature", "properties": { "name": "Щедра галявина", "urlimg": "images\/generous_clearing.jpg" }, "geometry": { "type": "Point", "coordinates": [ 35.18516264574307, 50.057037944853811 ] } }
+]
+}

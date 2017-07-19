@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # NPP_Slobozhanskiy_map
+=======
+# Web-map of National park Slobozhanskiy
+http://abiatov.github.io/NPP_Slobozhanskiy_map/
+>>>>>>> 9b967e63b8b9c964a1f849149f5d35e09c966dae
 
 [Web-map of Slobozhanskiy National park](http://abiatov.github.io/NPP_Slobozhanskiy_map/)
 
